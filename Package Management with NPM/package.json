@@ -1,6 +1,14 @@
 {
+	"name": "fcc-learn-npm-package-json",
 	"author": "Rimmy Le",
-	"me": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"freecodecamp"
+	],
+	"license": "drivers",
+	"version": "0.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
